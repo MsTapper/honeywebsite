@@ -1,0 +1,34 @@
+section.benefits div{
+    width: 200;
+    display: inline-block;
+}
+#benefit div{
+    height: 240px;
+    width: 240px;
+    margin: 15px;
+    padding: 20px;
+    background-color: aqua;
+    display: inline-block;
+}
+
+#test div{
+    background-color: lightgrey;
+    font-display: 2;
+    width: 250px;
+    height: 250px;
+    padding: 20px 40px;
+    margin: 10px;
+    display: inline-block;
+}
+
+#test h6{
+    text-align: center;
+}
+
+.order div{
+    width: 250px;
+    height: 50px;
+    margin: 30px;
+    padding: 30px;
+    display: inline-block;
+}
